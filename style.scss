@@ -1,0 +1,17 @@
+table{
+    thead{
+        border-top: 2px solid rgb(80, 80, 80);
+        border-bottom: 2px solid #ddd;
+        th{
+            font-weight: 700;
+            font-size: 20px;
+        }
+    }
+    tbody{
+        tr{
+            td{
+                border-bottom: 2px solid #ddd;
+            }
+        }
+    }
+}
